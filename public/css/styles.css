@@ -71,6 +71,7 @@ header .buscador .input{
     color: var(--Gris-oscuro);
     padding: 6px;
     border: none;
+    background-color: #FFFFFF;
 } 
 
 .main-header{
