@@ -112,12 +112,12 @@ header .buscador .input{
 .articulo{
     margin-bottom: 10px;
     border: solid 1px #cfcfcf;
+    background-color: #FFFFFF;
 }
 
 .articulo .main-article{
     width: 100%;
     padding: 15px;
-    background-color: #FFFFFF;
 }
 
 .lista-articulos{
