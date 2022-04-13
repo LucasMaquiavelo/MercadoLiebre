@@ -347,7 +347,7 @@ h4{
     footer .icono:hover i{
         color:#39b54a
     }
-
+    
 }
 
 @media(min-width:904px){
@@ -375,9 +375,11 @@ h4{
         font-size: 19px;
         font-weight: 400;
     } 
+
     .logo{
         width: 250px;
     }
+
     .buscador input{
         width: 600px;
         height: 30px;

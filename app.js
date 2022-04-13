@@ -3,7 +3,7 @@ const req = require("express/lib/request");
 const app = express();
 const path = require("path");
 app.use(express.static(path.resolve(__dirname, "./public")));
-app.listen(3000, () => {
+app.listen(process.env.PORT ||  3000, () => {
   console.log("Servidor corriendo en http://localhost:3000");
 });
 
